@@ -1,0 +1,38 @@
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  body{
+    overflow-x: hidden;
+  }
+  .pov{
+    color: grey;
+  }
+  p:hover{
+    color: brown;
+  }
+.imgg:hover{
+ transform: scale(1.1);
+}
+#hov:hover{
+  color: yellow;
+}
+#hov1:hover{
+  color: brown;
+}
+#i1:hover{
+  color: #fc03be;
+}
+#i2:hover{
+  color: #0d077a;
+}
+#i3:hover{
+  color: #1183ed;
+}
+#i4:hover{
+  color: #ed0505;
+}
+#i5:hover{
+  color: #3213bd;
+}
