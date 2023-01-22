@@ -39,3 +39,12 @@ img {
 #i5:hover{
   color: #3213bd;
 }
+.footer3{
+  background-color: black;
+  color: white;
+
+}
+.footer2{
+  position: relative;
+  left:35px;
+}
